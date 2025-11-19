@@ -1,5 +1,5 @@
 # Hi there, I'm Pothu Abhiram 👋
-**Computer Science Graduate | Machine Learning & Deep Learning Enthusiast | Python Developer**
+**Computer Science Graduate | Full Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram18/)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhiram--1--8-black?style=flat&logo=github)](https://github.com/Abhiram-1-8)
