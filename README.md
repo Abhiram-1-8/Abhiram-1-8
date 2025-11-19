@@ -1,65 +1,87 @@
-<div align="center">
+# Hi there, I'm Pothu Abhiram 👋
+**Computer Science Graduate | Machine Learning & Deep Learning Enthusiast | Python Developer**
 
-# Hi there, I'm Abhiram! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram18/)
+[![GitHub](https://img.shields.io/badge/GitHub-Abhiram--1--8-black?style=flat&logo=github)](https://github.com/Abhiram-1-8)
+[![Email](https://img.shields.io/badge/Email-abhirampothu019@gmail.com-red?style=flat&logo=gmail)](mailto:abhirampothu019@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Telangana,%20India-green)](#)
 
-[![@Abhiram-1-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhiram-1-8&show_icons=true&theme=radical&hide_border=true)](https://github.com/Abhiram-1-8)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram-1-8&layout=compact&theme=radical&hide_border=true)](https://github.com/Abhiram-1-8)
+## 👨‍🎓 About Me
+Motivated and detail-oriented **Computer Science graduate** with strong expertise in **Python, SQL, Machine Learning, and Deep Learning**. Passionate about building impactful solutions in healthcare and environmental domains using data-driven technologies. Effective communicator, quick learner, and team player eager to contribute to innovative software development projects.
 
-**Fresher | Aspiring Associate Consultant / IT Professional | ML & Full-Stack Enthusiast**
-
-I'm a motivated fresher passionate about leveraging technology to solve real-world problems, especially in healthcare via machine learning. Currently building expertise in cloud, DevOps, and data-driven solutions while preparing for roles via eLitmus and campus placements. Let's collaborate on impactful projects!
-
-- 🔭 Currently diving into **AWS/Azure Cloud**, **DevOps (CI/CD)**, **Microservices**, and **Data Analytics**.
-- 🌱 Strengthening skills in **Java**, **Python**, **JavaScript**, **React/Angular**, **SQL/NoSQL**, and **Docker**.
-- 💬 Ask me about ML models for healthcare, full-stack web apps, or optimizing code logic.
-- ⚡ Fun fact: I built an ML framework that could spot leukemia in blood smears—early detection saves lives!
-
-</div>
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-EED202?style=flat&logo=tensorflow&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### Soft Skills
-- Problem-Solving • Team Collaboration • Adaptability • Quick Learner
-
-## 🔥 Featured Projects
-
-Check out my key project showcasing ML applications in healthcare:
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [ALL Detection Framework](https://github.com/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning) | A deep learning-based system for detecting Acute Lymphoblastic Leukemia from blood smear images—early diagnosis via CNN models with high accuracy. | Python, TensorFlow/Keras, Jupyter Notebook | [![Stars](https://img.shields.io/github/stars/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning?style=social)](https://github.com/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning) |
-
-*More repos in the works—stay tuned for full-stack e-commerce apps and cloud-deployed ML pipelines!*
-
-## 📊 GitHub Activity
-
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhiram-1-8&theme=radical&hide_border=true)
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiram-1-8&theme=radical&hide_border=true)
-</div>
-
-## 📫 Get in Touch
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com) *(update with yours)*
-- 💼 LinkedIn: [linkedin.com/in/abhiram-18](https://www.linkedin.com/in/abhiram-18) *(add your profile)*
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
-
-Open to internships, full-time roles, or coffee chats on tech trends. Star my repos if they inspire you! ⭐
+📍 **Telangana, India** | 📞 +91 9390602443
 
 ---
 
-*Last updated: November 19, 2025*
+## 🎓 Education
+**B.Tech in Computer Science and Engineering**  
+Veltech University, Chennai  
+*2021 – 2025* | **CGPA: 8.8**
+
+**Intermediate (MPC)** – Sri Chaitanya Junior College  
+*2019 – 2021* | **Marks: 976/1000**
+
+**SSC** – Tawakkal High School  
+*2018 – 2019* | **CGPA: 9.8**
+
+---
+
+## 🛠️ Skills
+
+### Languages & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Flask, Jupyter Notebook, Git & GitHub, VS Code, PyCharm
+
+### Soft Skills
+- Excellent Communication
+- Logical & Analytical Thinking
+- Time Management
+- Teamwork & Leadership
+- Self-Motivated & Adaptable
+
+---
+
+## 🔥 Featured Projects
+
+### 🩺 Acute Lymphoblastic Leukemia Detection Using Deep Learning *(Jan 2025 – May 2025)*
+- Developed a **deep learning system** using **ResNet-50** for early detection of Acute Lymphoblastic Leukemia (ALL) from blood smear images.
+- Achieved **99.38% accuracy** with preprocessing (normalization, resizing, augmentation) and performance evaluation using precision, recall, and F1-score.
+- Outperformed traditional models like SVM and basic CNN.
+- **Tech Stack:** Python, PyTorch, Pandas, NumPy, Flask, XAMPP, VS Code
+
+### 💧 Water Treatment Monitoring Using Machine Learning *(Nov 2023 – Feb 2024)*
+- Built ML models (Logistic Regression, Random Forest, Decision Tree, SVM) to predict water potability based on pH, hardness, turbidity, etc.
+- Helps in environmental monitoring and ensuring safe drinking water.
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Jupyter Notebook
+
+---
+
+## 🏆 Certifications
+- Cisco Introduction to Networks
+- Cisco Introduction to Cybersecurity
+- UiPath Academy – Automation Explorer
+
+---
+
+## 📊 GitHub Stats
+![Abhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiram-1-8&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram-1-8&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🌐 Let's Connect!
+Feel free to reach out for collaborations, internships, or full-time opportunities in **Machine Learning, Deep Learning, or Software Development**!
+
+<a href="https://linkedin.com/in/abhiram18/">
+  <img align="left" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abhirampothu019@gmail.com">
+  <img align="left" alt="Gmail" width="120px" src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Turning data into real-world impact, one model at a time."**
