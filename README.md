@@ -1,65 +1,37 @@
-<div align="center">
+# Hi there, I'm Abhiram 👋
 
-# Hi there, I'm Abhiram! 👋
+**Fresher | Aspiring Associate Consultant | Full-Stack & ML Enthusiast**
 
-[![@Abhiram-1-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhiram-1-8&show_icons=true&theme=radical&hide_border=true)](https://github.com/Abhiram-1-8)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram-1-8&layout=compact&theme=radical&hide_border=true)](https://github.com/Abhiram-1-8)
+Actively preparing for IT/consulting roles through eLitmus and campus placements. Passionate about building impactful solutions using clean code and modern technologies.
 
-**Fresher | Aspiring Associate Consultant / IT Professional | ML & Full-Stack Enthusiast**
+## 🛠️ Skills
 
-I'm a motivated fresher passionate about leveraging technology to solve real-world problems, especially in healthcare via machine learning. Currently building expertise in cloud, DevOps, and data-driven solutions while preparing for roles via eLitmus and campus placements. Let's collaborate on impactful projects!
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 Currently diving into **AWS/Azure Cloud**, **DevOps (CI/CD)**, **Microservices**, and **Data Analytics**.
-- 🌱 Strengthening skills in **Java**, **Python**, **JavaScript**, **React/Angular**, **SQL/NoSQL**, and **Docker**.
-- 💬 Ask me about ML models for healthcare, full-stack web apps, or optimizing code logic.
-- ⚡ Fun fact: I built an ML framework that could spot leukemia in blood smears—early detection saves lives!
+## 🔥 Key Project
 
-</div>
+**[Acute Lymphoblastic Leukemia Detection using Deep Learning](https://github.com/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning)**  
+A complete deep learning framework to detect ALL from blood smear images using CNNs.  
+`Python • TensorFlow/Keras • Jupyter Notebook • OpenCV`
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-EED202?style=flat&logo=tensorflow&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=Abhiram-1-8&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram-1-8&layout=compact&theme=tokyonight&hide_border=true)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+## 📫 Connect
 
-### Soft Skills
-- Problem-Solving • Team Collaboration • Adaptability • Quick Learner
+- 💼 LinkedIn: [Add your LinkedIn here]
+- 📧 Email: [Add your email here]
 
-## 🔥 Featured Projects
-
-Check out my key project showcasing ML applications in healthcare:
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [ALL Detection Framework](https://github.com/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning) | A deep learning-based system for detecting Acute Lymphoblastic Leukemia from blood smear images—early diagnosis via CNN models with high accuracy. | Python, TensorFlow/Keras, Jupyter Notebook | [![Stars](https://img.shields.io/github/stars/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning?style=social)](https://github.com/Abhiram-1-8/Comprehensive-Framework-for-Acute-Lymphoblastic-Leukemia-detection-using-Deep-Learning) |
-
-*More repos in the works—stay tuned for full-stack e-commerce apps and cloud-deployed ML pipelines!*
-
-## 📊 GitHub Activity
-
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhiram-1-8&theme=radical&hide_border=true)
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiram-1-8&theme=radical&hide_border=true)
-</div>
-
-## 📫 Get in Touch
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com) *(update with yours)*
-- 💼 LinkedIn: [linkedin.com/in/abhiram-18](https://www.linkedin.com/in/abhiram-18) *(add your profile)*
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
-
-Open to internships, full-time roles, or coffee chats on tech trends. Star my repos if they inspire you! ⭐
+Open to full-time roles, internships, and collaborations!  
+Feel free to star ⭐ the project if you find it useful.
 
 ---
-
-*Last updated: November 19, 2025*
+*Profile last updated: November 2025*
