@@ -38,7 +38,7 @@ Veltech University, Chennai
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-**Tools & Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Flask, Jupyter Notebook, Git & GitHub, VS Code, PyCharm
+**Tools & Frameworks:**  GitHub, VS Code, PyCharm, EcllipseIDE
 
 ### Soft Skills
 - Excellent Communication
