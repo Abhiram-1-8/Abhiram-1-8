@@ -41,7 +41,7 @@ Veltech University, Chennai
 **Tools & Frameworks:**  GitHub, VS Code, PyCharm, EcllipseIDE
 
 ### Soft Skills
-- Excellent Communication
+- Communication Skills
 - Logical & Analytical Thinking
 - Time Management
 - Teamwork & Leadership
